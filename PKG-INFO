@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: qr-fileautomator
+Version: 3.6.2
+Summary: Transfer files over WiFi between your computer and your smartphone from the terminal
+Home-page: UNKNOWN
+Author: S.chaudhary
+Author-email: chaudharyshivshankarex09@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+Provides-Extra: extras
+
 ## Installation
 
 You will find the most updated version of ```qr-filetransfer``` here. But if you want the most stable version, use ```pip``` to install it
@@ -82,3 +94,5 @@ Inspired by the Go project
 MIT License
 
 Copyright © 2022 S.chaudhary
+
+
